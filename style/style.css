@@ -7,11 +7,7 @@
 @import url(../style/mediaplayer.css);
 
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
-/*
-Theme Name: Shift CV [v1.1]
-Theme URI: http://shiftcv.themerex.net/
-Author: ThemeREX - http://ThemeREX.net/
-*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -228,6 +224,7 @@ blockquote.sc_quote .quotes:before { display: inline-block; padding-top: 5px; co
 #header .social_links li.skp a { background-position: -176px 0; }
 #header .social_links li.xing a:hover{ background-position: -198px 0; }
 #header .social_links li.slide_share a:hover{ background-position: -220px 0; }
+
 /*soc:hover*/
 #header .social_links li.rss a{ background-position:0 -22px; }
 #header .social_links li.fb a{ background-position: -22px -22px; }
