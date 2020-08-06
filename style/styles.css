@@ -1,3 +1,9 @@
+#header .social_links { 
+  padding-top: 20px; 
+  float: right;
+  margin-right: 57px; 
+  overflow: hidden;
+ }
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
