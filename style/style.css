@@ -36,7 +36,34 @@ h6 { font-size: 14px; line-height: 17px;}
 .cms-caption img {vertical-align: top; width: 100%;}
 .cms-caption .cms-caption-text { color: #fff; position: absolute; bottom: 0; left: 0; right: 0; padding: 10px; background: url(../images/slider-caption1.png) 0 0 repeat;}
 .single .cms-caption .cms-caption-text { left: 0;}
+#header .social_links { 
+  padding-top: 20px; 
+  float: right;
+  margin-right: 57px; 
+  overflow: hidden;
+ }
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.5rem;
+  width: 2.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icon:hover {
+  background-color: #bd5d38;
+}
 
+.dev-icons {
+  font-size: 3rem;
+}
 
 
 input[type="text"],
@@ -74,34 +101,7 @@ strong { font-weight: 700;}
 .pattern3{ background-image: url(../images/bg/pattern3.jpg); background-repeat: repeat; background-position: center center;}
 .pattern4{ background-image: url(../images/bg/pattern4.png); background-repeat: repeat; background-position: center center;}
 .pattern5{ background-image: url(../images/bg/pattern5.png); background-repeat: repeat; background-position: center center;}
-#header .social_links { 
-  padding-top: 20px; 
-  float: right;
-  margin-right: 57px; 
-  overflow: hidden;
- }
-.social-icons .social-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 2.5rem;
-  width: 2.5rem;
-  background-color: #495057;
-  color: #fff;
-  border-radius: 100%;
-  font-size: 1.5rem;
-  margin-right: 0.5rem;
-}
-.social-icons .social-icon:last-child {
-  margin-right: 0;
-}
-.social-icons .social-icon:hover {
-  background-color: #bd5d38;
-}
 
-.dev-icons {
-  font-size: 3rem;
-}
 /*radius*/
 input[type="text"],
 input[type="search"],
@@ -497,7 +497,7 @@ h3.category_title .category_title_icon { border-radius: 3px; position: absolute;
 #portfolio_iso_filters li a.current { color: #fff; cursor:default;}
 
 #googlemap_data { margin-top: 5px; margin-bottom: 30px; position: relative;}
-#googlemap_data .add_info { position: absolute; width: 190px; top: 30px; right: 30px; background: #fff; padding: 26px 30px 20px;}
+#googlemap_data .add_info { position: absolute; width: 250px; top: 30px; right: 30px; background: #fff; padding: 26px 30px 20px;}
 #googlemap_data .add_info .profile_row { overflow: hidden; margin-bottom: 10px; display: none ; }
 #googlemap_data .add_info .profile_row .th { float: left; width: 26px; height: 26px; background: url(../images/contact_icons.png) no-repeat; margin-right: 10px; overflow:hidden; text-indent:100%; white-space:nowrap;}
 #googlemap_data .add_info .profile_row .td { display: block; overflow: hidden; font-size: 12px; line-height: 15px; padding-top: 5px; }
