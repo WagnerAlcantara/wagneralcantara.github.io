@@ -96,11 +96,7 @@ strong { font-weight: 700;}
 .bg1{ background-image: url(../images/bg/bg1.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
 .bg2{ background-image: url(../images/bg/bg2.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
 .bg3{ background: url(../images/bg/bg3.jpg); background-repeat: no-repeat; background-position: top center; background-attachment: fixed;}
-.pattern1{ background-image: url(../images/bg/pattern1.png); background-repeat:) repeat; background-position: center center;}
-.pattern2{ background-image: url(../images/bg/pattern2.png); background-repeat: repeat; background-position: center center;}
-.pattern3{ background-image: url(../images/bg/pattern3.jpg); background-repeat: repeat; background-position: center center;}
-.pattern4{ background-image: url(../images/bg/pattern4.png); background-repeat: repeat; background-position: center center;}
-.pattern5{ background-image: url(../images/bg/pattern5.png); background-repeat: repeat; background-position: center center;}
+
 
 /*radius*/
 input[type="text"],

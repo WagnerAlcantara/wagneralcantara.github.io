@@ -23,7 +23,6 @@ body.dark { background-color: #141414; color: #878787; }
 .dark .widget_skills .style_3 .progress:after { background: url(../images/level_mask_dark.png) 0 0 repeat-x !important; }
 .dark .widget_skills .style_3 .progressbar { background: url(../images/level_bg_dark.png) 0 0 repeat-x !important; }
 
-
 .dark #secondary .widget .widget_twitter li a{ color:#4CA5D0;}
 
 
@@ -54,30 +53,6 @@ body.dark { background-color: #141414; color: #878787; }
 .dark .sc_contact_form form .field label { color: #878787; }
 .dark .sc_contact_form .enter { border-color: #3b3b3b; background: #3b3b3b; color: #646464; }
 .dark .sc_contact_form .enter:hover { background: none; }
-/*social ico */
-.dark #header .social_links li.rss a{ background-position:0 0; }
-.dark #header .social_links li.fb a{ background-position: -22px 0; }
-.dark #header .social_links li.tw a{ background-position: -44px 0; }
-.dark #header .social_links li.gplus a{ background-position: -66px 0; }
-.dark #header .social_links li.lnkd a{ background-position: -88px 0; }
-.dark #header .social_links li.drb a{ background-position: -110px 0; }
-.dark #header .social_links li.vim a{ background-position: -132px 0; }
-.dark #header .social_links li.pin a{ background-position: -154px 0; }
-.dark #header .social_links li.skp a { background-position: -176px 0; }
-.dark #header .social_links li.xing a{ background-position: -198px 0; }
-.dark #header .social_links li.slide_share a{ background-position: -220px 0; }
-/*soc:hover*/
-.dark #header .social_links li.rss a:hover{ background-position:0 -22px; }
-.dark #header .social_links li.fb a:hover{ background-position: -22px -22px; }
-.dark #header .social_links li.tw a:hover{ background-position: -44px -22px; }
-.dark #header .social_links li.gplus a:hover{ background-position: -66px -22px; }
-.dark #header .social_links li.lnkd a:hover{ background-position: -88px -22px; }
-.dark #header .social_links li.drb a:hover{ background-position: -110px -22px; }
-.dark #header .social_links li.vim a:hover{ background-position: -132px -22px; }
-.dark #header .social_links li.pin a:hover{ background-position: -154px -22px; }
-.dark #header .social_links li.skp a:hover{ background-position: -176px -22px; }
-.dark #header .social_links li.xing a:hover{ background-position: -198px -22px; }
-.dark #header .social_links li.slide_share a:hover{ background-position: -220px -22px; }
 
 .dark ul.breadcrumbs { background: #2c2c2c; }
 .dark ul.breadcrumbs li a:hover { color: #878787; }
@@ -94,14 +69,7 @@ body.dark { background-color: #141414; color: #878787; }
 .dark .mejs-controls .mejs-time-rail .mejs-time-total { background: #3b3b3b !important; }
 .dark .mejs-controls .mejs-time-rail .mejs-time-loaded { background: #4f4f4f !important; }
 .dark .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total { background: #3b3b3b !important; }
-.dark .post-info a,
-.dark .post-info span.post_categories {color: #646464;}
-.dark .post-info a:hover,
-.dark .post-info span.post_categories a:hover { color: #878787; }
-.dark .post-info .post_categories .icon-align-left:before {color: #646464;}
-.dark .post-info a.post_author span:before,
-.dark .post-info .post_categories .icon-align-left,
-.dark .post-info a.comments_count span { color: #646464; background: #3b3b3b; }
+
 .dark article.post .more-link { background: #282828; color: #646464; border-color: #3b3b3b; }
 .dark article.post .more-link:hover { background: #3b3b3b; }
 .dark .blog_section article.post .post_title a { color: #fff; }
