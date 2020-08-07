@@ -218,7 +218,7 @@ blockquote.sc_quote .quotes:before { display: inline-block; padding-top: 5px; co
 .widget_qrcode_vcard img { width:160px;}
 
 /*tweet*/
-#secondary .widget .widget_twitter{}
+
 #secondary .widget .widget_twitter li{  font-size: 12px; line-height: 16px; margin:0; padding:0 0 24px 0; list-style:none; background:none;}
 #secondary .widget .widget_twitter li.last{ padding:0;}
 #secondary .widget .widget_twitter li a{ color:#4CA5D0;}
@@ -303,7 +303,7 @@ section#profile { position: relative;}
 .section_header.profile_section_header .section_title { height: 30px;}
 .section_header.opened .section_title a { height: 60px;}
 .section_header .section_title .section_name { font-size: 19px;}
-.section_header .section_title .section_name a {}
+
 .blog_section .section_header .section_title .section_name { position: relative; display: block; width: 103px; height: 60px; line-height: 59px; padding-left: 30px; background-image: url(../images/title_divider.gif) 0 0 repeat-y;}
 .section_header .section_title a span.icon,
 .section_header .section_title strong span.icon { position: absolute; top: 0; left: -60px; display: block; width: 60px; height: 60px; font-weight: normal;
