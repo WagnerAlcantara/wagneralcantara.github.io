@@ -12,6 +12,9 @@
   background-repeat: no-repeat;
   box-sizing: border-box;
 }
+p{
+  text-align: justify;
+}
 
 html {
   font-size: 1rem;
